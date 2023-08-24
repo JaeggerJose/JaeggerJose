@@ -13,4 +13,4 @@ Project at: CGU AI Center(part time)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeggerJose&layout=compact&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # Skill
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,bash,bootstrap,c,cpp,css,js,django,docker,git,github,gitlab,go,kubernetes,mysql,regex,sqlite,vim,vscode&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,bash,bootstrap,c,cpp,css,js,django,docker,git,github,gitlab,go,kubernetes,mysql,regex,sqlite,vim,vscode&perline=8)](https://skillicons.dev)
