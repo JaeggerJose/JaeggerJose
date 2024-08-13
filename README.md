@@ -10,6 +10,9 @@ Project at: CGU AI Center(part time)
 + Full stack Developer
 + Openldap for User Authentication
 
+<img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeggerJose&theme=tokyonight&theme=radical&count_private=true&show_icons=true&hide=Shell,CSS,HTML,SCSS)](https://github.com/anuraghazra/github-readme-stats)
 
 # Skill
